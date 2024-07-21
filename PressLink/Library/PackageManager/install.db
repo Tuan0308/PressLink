@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "a022d4e3880f",
+        "mtime": 1721476726646,
+        "size": 139071035,
+        "localPath": "D:\\Deadline\\Trainning\\PressLink\\PressLink\\Packages\\com.ptc.vuforia.engine-10.24.4.tgz"
+      }
+    }
+  }
+}
